@@ -1,0 +1,7 @@
+C:\Users\Samsung\source\repos\OkitayMarketleri\OkitayMarketleri\obj\Debug\OkitayMarketleri.csproj.AssemblyReference.cache
+C:\Users\Samsung\source\repos\OkitayMarketleri\OkitayMarketleri\obj\Debug\OkitayMarketleri.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\OkitayMarketleri\OkitayMarketleri\bin\Debug\OkitayMarketleri.exe.config
+C:\Users\Samsung\source\repos\OkitayMarketleri\OkitayMarketleri\bin\Debug\OkitayMarketleri.exe
+C:\Users\Samsung\source\repos\OkitayMarketleri\OkitayMarketleri\bin\Debug\OkitayMarketleri.pdb
+C:\Users\Samsung\source\repos\OkitayMarketleri\OkitayMarketleri\obj\Debug\OkitayMarketleri.exe
+C:\Users\Samsung\source\repos\OkitayMarketleri\OkitayMarketleri\obj\Debug\OkitayMarketleri.pdb
